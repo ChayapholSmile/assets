@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('Font.ttf') format('truetype');
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+}
+
+textarea {
+    width: 100%;
+    height: 200px;
+    font-family: 'CustomFont', sans-serif;
+    margin-bottom: 10px;
+}
